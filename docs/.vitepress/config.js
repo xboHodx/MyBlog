@@ -7,7 +7,7 @@ export default {
 
 	head: [
     // 配置网站的图标（显示在浏览器的 tab 上）
-    ["link", { rel: "icon", href: '/src/logo.jpg' }],
+    ["link", { rel: "icon", href: '../src/logo.jpg' }],
   ],
 
 	// 主题级选项
