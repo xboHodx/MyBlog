@@ -14,7 +14,7 @@ hero:
       link: ./src/menu.md
     - theme: alt
       text: View on GitHub
-      link: https://github.com/vuejs/vitepress
+      link: https://github.com/xboHodx/MyBlog
 ---
 
 <style>
