@@ -6,7 +6,7 @@ hero:
   text: describe
   tagline: tags。。。
   image:
-    src: ../src/logo.jpg
+    src: /docs/src/logo.jpg
     alt: logo
   actions:
     - theme: brand
