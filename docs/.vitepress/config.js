@@ -3,7 +3,7 @@ export default {
 	// 站点级选项
 	title: "xboHodx的博客", // 网站标题
 	description: "神秘的地方", // 网站描述
-	base: '/Myblog/', // 如果想用 https://xboHodx.github.io/Myblog/ 访问，那么这句话必填
+	base: '/MyBlog/', // 如果想用 https://xboHodx.github.io/Myblog/ 访问，那么这句话必填
 
 	head: [
     // 配置网站的图标（显示在浏览器的 tab 上）
