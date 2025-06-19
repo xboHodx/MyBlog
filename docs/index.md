@@ -1,40 +1,15 @@
 ---
 layout: home
-
-hero:
-  name: xboHodx的博客
-  text: describe
-  tagline: tags。。。
-  image:
-    src: /logo.jpg
-    alt: logo
-  actions:
-    - theme: brand
-      text: Get Started
-      link: ./src/menu.md
-    - theme: alt
-      text: View on GitHub
-      link: https://github.com/xboHodx/MyBlog
+# 首页部分元素定制
+blog:
+ name: 'xboHodx的博客'
+ motto: 期末摸鱼中
+ inspiring:
+  - 啊工科数分
+  - 啊概率论
+  - 啊大物
+  - 啊英语
+ # 设置 inspiringTimeout 可以实现自动切换
+ inspiringTimeout: 700
+ pageSize: 6
 ---
-
-<style>
-:root {
-  --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe 10%, #41d1ff);
-
-  --vp-home-hero-image-background-image: linear-gradient(-45deg, #bd34fe );
-  --vp-home-hero-image-filter: blur(44px);
-}
-
-@media (min-width: 640px) {
-  :root {
-    --vp-home-hero-image-filter: blur(56px);
-  }
-}
-
-@media (min-width: 960px) {
-  :root {
-    --vp-home-hero-image-filter: blur(68px);
-  }
-}
-</style>
