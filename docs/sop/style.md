@@ -4,7 +4,8 @@ title: 🔧 主题样式定制
 readingTime: false
 tag:
  - 配置
-recommend: 3
+recommend: 100
+top: 10
 ---
 
 # 样式配置

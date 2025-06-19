@@ -2,7 +2,7 @@
 layout: home
 # 首页部分元素定制
 blog:
- name: 'xboHodx的博客'
+ name: xboHodx的博客
  motto: 期末摸鱼中
  inspiring:
   - 啊工科数分
